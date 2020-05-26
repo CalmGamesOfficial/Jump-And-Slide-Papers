@@ -19,7 +19,7 @@ es un juego de plataformas que se basa en tan solo 2 botones,
 uno para saltar y trepar paredes y otro para accionar ciertos objetos
 
 ## Tecnologias usadas
-Unity, Visual Studio Code, Gimp
+Unity, Visual Studio Code, Photoshop, Gimp
 
 ## Publico
 esta orientado a jugadores casuales a los que le suelen gustar juegos simples y

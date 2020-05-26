@@ -2,6 +2,7 @@
 
 [Concepto](/Paginas/Concepto.md)
 
+
 [Progreso del juego](/Paginas/Progreso.md)
 
 [Mecanica del juego](/Paginas/Mecanicas.md)
@@ -22,6 +23,5 @@
 
 [Logros](/Paginas/Logros.md)
 
-[Codigos secretos](/Paginas/CodigosSecretos.md)
-
+##
 [Historial de versiones](https://github.com/CalmGamesOfficial/Jump-And-Slide-Papers/commits/master)
